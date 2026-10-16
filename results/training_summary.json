@@ -1,0 +1,42 @@
+[
+  {
+    "model": "rnn",
+    "parameters": 2627630,
+    "epochs_completed": 10,
+    "training_seconds": 24.37,
+    "best_validation_loss": 6.399668561949277,
+    "best_validation_perplexity": 601.6455965789346,
+    "last_validation_loss": 6.399668561949277,
+    "best_epoch": 10
+  },
+  {
+    "model": "birnn",
+    "parameters": 4378670,
+    "epochs_completed": 10,
+    "training_seconds": 48.43,
+    "best_validation_loss": 6.429094324813568,
+    "best_validation_perplexity": 619.6125261280368,
+    "last_validation_loss": 6.434770541346182,
+    "best_epoch": 9
+  },
+  {
+    "model": "lstm",
+    "parameters": 2702126,
+    "epochs_completed": 10,
+    "training_seconds": 29.32,
+    "best_validation_loss": 6.503142419206181,
+    "best_validation_perplexity": 667.2350743993394,
+    "last_validation_loss": 6.503142419206181,
+    "best_epoch": 10
+  },
+  {
+    "model": "gru",
+    "parameters": 2677294,
+    "epochs_completed": 10,
+    "training_seconds": 39.11,
+    "best_validation_loss": 6.3314364944906085,
+    "best_validation_perplexity": 561.9632714636848,
+    "last_validation_loss": 6.3314364944906085,
+    "best_epoch": 10
+  }
+]

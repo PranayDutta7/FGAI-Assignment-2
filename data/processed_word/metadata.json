@@ -1,0 +1,14 @@
+{
+  "dataset": "Tiny Shakespeare",
+  "level": "word",
+  "tokenizer": "Unicode word tokens with punctuation",
+  "total_tokens": 253593,
+  "vocabulary_size": 13486,
+  "training_tokens": 228233,
+  "validation_tokens": 25360,
+  "validation_fraction": 0.1,
+  "validation_unknown_tokens": 1286,
+  "validation_unknown_fraction": 0.050709779179810725,
+  "split_method": "chronological",
+  "unknown_token": "<UNK>"
+}

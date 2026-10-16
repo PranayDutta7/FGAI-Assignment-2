@@ -1,0 +1,5 @@
+model,correct_predictions,total_predictions,validation_accuracy_percent,best_epoch,checkpoint_validation_loss
+rnn,3278,25336,12.9381,10,6.399668561949277
+birnn,3041,25336,12.0027,9,6.429094324813568
+lstm,3107,25336,12.2632,10,6.503142419206181
+gru,3252,25336,12.8355,10,6.3314364944906085

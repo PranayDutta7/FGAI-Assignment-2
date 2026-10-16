@@ -1,0 +1,10 @@
+{
+  "dataset": "Tiny Shakespeare",
+  "level": "character",
+  "total_characters": 1115394,
+  "vocabulary_size": 65,
+  "training_characters": 1003854,
+  "validation_characters": 111540,
+  "validation_fraction": 0.1,
+  "split_method": "chronological"
+}
